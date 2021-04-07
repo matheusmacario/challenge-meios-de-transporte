@@ -29,3 +29,5 @@ Crie uma aplicação, que crie pelo menos 5 objetos de cada tipo através do uso
 #### Problema 5. (app2)
 
 Crie uma aplicação, que crie pelo menos quantidades variadas de objetos de cada tipo através do uso de ArrayLists para cada tipo de objeto. Faça a proteção contra lançamento de exceções da aplicação para o uso dos ArrayLists.
+
+![classes atributos e metodos](https://github.com/matheusmacario/challenge-meios-de-transporte/blob/main/classes-atributos-metodos.jpg)
